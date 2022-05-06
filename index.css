@@ -16,6 +16,9 @@
 .encabezado{
     background-color: rgba(170, 170, 170, 0.5);
     }
+.pie {
+    background-color: rgba(170, 170, 170, 0.5);
+    }
 .logo {
     color: rgb(0, 0, 0);
     font-size: 2rem;
@@ -42,9 +45,6 @@
     border-bottom-right-radius: 25px;
 }
 
-.separador {
-    border-top: 5px;
-}
 /* footer {
     width: 80%;
     overflow:hidden;
