@@ -33,6 +33,18 @@
 .foto {
     width: 100% !important;
 }
+
+.tit-carou {
+    z-index: 10000;
+    background: rgb(170,170,170,0.5);
+    color:black;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.separador {
+    border-top: 5px;
+}
 /* footer {
     width: 80%;
     overflow:hidden;
